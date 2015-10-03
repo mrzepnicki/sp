@@ -1,0 +1,26 @@
+head -n 5 program.c
+{
+
+char operator;
+
+float value1, value2;
+
+tail -n 8 program.c
+{
+
+char operator;
+
+float value1, value2;
+mrzepnicki@p29-10:~/temp/uczelnia/ug/git/sp/c$ tail -n 8 program.c
+
+sscanf(line, "%f %c %f",&value1, &operator, &value2);
+
+switch(operator)
+
+{int a,b,c
+
+  cout<a;
+
+
+grep 'cout' program.c
+  cout<a;
